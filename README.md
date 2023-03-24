@@ -1,2 +1,2 @@
 # Projeto-integrador
-projeto criado para o curso programador web para web SENAC
+projeto criado para o curso programador web web - SENAC
